@@ -1,4 +1,3 @@
-
 ## Application Description
 
 I have developed a lightweight e-commerce backend system that manages shopping carts within user sessions. The system supports various cart operations, including adding items to the cart and performing complex price calculations that involve different tax types and currency conversions. Additionally, it offers the capability to place orders and provides order confirmation receipts that can be utilized for order confirmation pages.
